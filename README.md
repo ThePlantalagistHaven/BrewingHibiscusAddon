@@ -7,6 +7,18 @@ This addon adds 5 new types of hibiscus flowers to your world! Each flower has a
 
 ![069d27a3-d721-4a06-b61e-d22290f00e2f](https://github.com/user-attachments/assets/c57be238-6df3-43c1-8731-a637f5ac69e0)
 
+These flowers come from bushes that you can find from all over the Overworld and Nether!
+
+![4973e644-63a8-44a8-bdb3-33525f2da43b](https://github.com/user-attachments/assets/e9d77d5a-6c36-4019-a4df-0835d06f8657)
+
+By using bonemeal on the non flowered variants, you can cause them to bloom, and using shears will harvest the flowers! By bonemealing the flowered version, however, you can cause a hibiscus tree to grow!
+
+![a70270b4-4ad6-482d-96b3-d74e6c840df2](https://github.com/user-attachments/assets/527312aa-b6ef-4a8d-95b1-e95f524bf198)
+
+And with this new wood, you can use a new woodset!
+
+![33035b41-08a3-4cab-b0fc-50fbf54fcd4c](https://github.com/user-attachments/assets/438771d8-26f3-46ce-a33f-f7ec326f9b0d)
+
 To make this tea, you need to create a tea brewer. There are two versions.
 
 The first is the Natural Tea Brewer. 
