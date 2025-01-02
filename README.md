@@ -19,6 +19,10 @@ And with this new wood, you can use a new woodset!
 
 ![33035b41-08a3-4cab-b0fc-50fbf54fcd4c](https://github.com/user-attachments/assets/438771d8-26f3-46ce-a33f-f7ec326f9b0d)
 
+Again you can use the leaves, bushes, and flowers in pots as decoration! Use them to spice up your builds.
+
+![d7cae195-e37c-47a9-b702-01496c8fa98e](https://github.com/user-attachments/assets/b8db2501-0e80-4642-b685-30397a7d3ccf)
+
 To make this hibiscus tea, you need to create a tea brewer machine. There are two tiers.
 
 The first is the Natural Tea Brewer. 
