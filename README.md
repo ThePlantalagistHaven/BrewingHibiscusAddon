@@ -44,3 +44,6 @@ Don't worry, you'll receive a book that will help explain the locations of hibis
 Pretty much almost everything was done by me!
 However, lots of the models for the woodset came from Kaioga's Templates!
 The flower pot model was gotten from MeerkatMC's Custom Pot template!
+
+# Current Issues
+When placing a hibiscus door next to an open door, if the door has solid blocks behind it, both segments become misaligned. I suggest placing the hibiscus door down first, then placing solid blocks behind.
