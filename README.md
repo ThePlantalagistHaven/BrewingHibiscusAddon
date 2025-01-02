@@ -19,7 +19,7 @@ And with this new wood, you can use a new woodset!
 
 ![33035b41-08a3-4cab-b0fc-50fbf54fcd4c](https://github.com/user-attachments/assets/438771d8-26f3-46ce-a33f-f7ec326f9b0d)
 
-To make this tea, you need to create a tea brewer. There are two versions.
+To make this hibiscus tea, you need to create a tea brewer machine. There are two tiers.
 
 The first is the Natural Tea Brewer. 
 
