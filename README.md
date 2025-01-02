@@ -36,3 +36,11 @@ The second tier is the Modern Tea Brewer.
 ![6ccd5f0c-07da-4883-a746-5ee7cb3c2f7e](https://github.com/user-attachments/assets/ac1a6c25-7b01-4cba-b112-75befba57b28)
 
 This is made of 4 iron ingots, 2 blocks of glass, 1 Natural Tea Brewer, and 2 hibiscus flowers. Very similar to the metal flask, but you need a metal flask, made of 2 iron ingots, and use it to interact with the machine, along with a bottle of water and at least 10 of one hibiscus flower in your inventory. With this machine, you can have more than one hibiscus type in the brew, leading to a drink with multiple beneficial effects! This machine also allows for more flowers, leading to a stronger effect and duration.
+
+Don't worry, you'll receive a book that will help explain the locations of hibiscus bushes and other info...
+
+# Credits
+
+Pretty much almost everything was done by me!
+However, lots of the models for the woodset came from Kaioga's Templates!
+The flower pot model was gotten from MeerkatMC's Custom Pot template!
